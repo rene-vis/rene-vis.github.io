@@ -1,0 +1,5 @@
+site_name: Rene-vis
+site_author: terry
+repo_url: https://github.com/rene-vis
+nav:
+  - Home: index.md
